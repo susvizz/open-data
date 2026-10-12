@@ -1,0 +1,10 @@
+Sector / Industry,Subsector / Application,Annual Water Withdrawal (Billion Gallons),Annual Water Withdrawal (Billion Liters),Daily Withdrawal (Billion Gallons/day),Share of US Total (%),5-Year Growth Trend (2020-2025),Status,Citation
+Thermoelectric Power,National electric utility cooling,48500,183590,132.88,41.3,-4.5% (Coal retirements),Hard Data,[11]
+Agricultural Irrigation,Crops & livestock feed,43000,162770,117.81,36.6,-1.2% (Drip efficiency),Hard Data,[11]
+Public Water Supply,Residential & municipal utilities,14200,53750,38.9,12.1,+0.8% (Population growth),Hard Data,[11]
+Industrial Manufacturing,Chemicals pulp paper & metals,5400,20440,14.79,4.6,-3.2% (Process recycling),Hard Data,[11]
+U.S. Golf Courses,Turfgrass irrigation (approx 16000 courses),620,2347,1.7,0.5,-4.0% (Reclaimed water rules),Hard Data,[12]
+U.S. Data Centers (2030 Projected),High AI growth + fossil grid (Direct + Indirect),650,2460,1.78,0.6,+280.0% (AI buildout surge),Modeled Scenario,"[6], [17]"
+U.S. Data Centers (2024),All US data centers (Direct on-site + Indirect grid),170,643,0.47,0.14,+165.0% (GenAI acceleration),Hard Data,"[5], [6]"
+U.S. Beverage & Brewing,Soft drinks beer & commercial bottling,120,454,0.33,0.1,-1.5% (Water ratio reduction),Hard Data,[13]
+U.S. Commercial Car Washes,Vehicle cleaning facilities,38,144,0.1,0.03,+2.0% (Fleet growth),Hard Data,[13]

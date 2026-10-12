@@ -1,0 +1,5 @@
+code,name,frequency_annual,daily_avg,color_key,primary_causes,note,source
+7700,General Emergency,6500.0,17.8,teal,"Medical diversions, bird strikes, cabin pressurization, engine anomalies",Routine emergency alert handled daily by ATC worldwide,"[2], [4]"
+7600,Radio Failure,950.0,2.6,grey,"Frequency handoff delay, stuck PTT microphone, avionics reboot",Secondary operational fix resolved via standard lost-comm routing,"[1], [2]"
+7500 (Typo),Accidental Dial-In,6.0,0.016,gold,"Pilot rotary transposer typo (transposing digits), test errors",85%+ of 7500 transmissions are false alarms retracted in <60 seconds,"[1], [4]"
+7500 (Hostile),Verified Hijacking,0.5,0.001,coral,"Unlawful interference, flight deck physical struggle",Extremely rare statistical outlier (<1 per 50 million flights),"[2], [3]"

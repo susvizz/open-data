@@ -1,0 +1,9 @@
+# OS & System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / Editor temporary caches
+__pycache__/
+*.pyc
+*.tmp

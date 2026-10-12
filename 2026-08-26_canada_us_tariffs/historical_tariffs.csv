@@ -1,0 +1,12 @@
+Year,Weighted_Mean_Tariff_All_Goods_Pct,Headline_Punitive_Tariff_Rate_Pct,Policy_Era,Data_Status,Methodology,Source
+2016,0.28,0.0,NAFTA Duty-Free Baseline,Hard Data,Official USITC DataWeb & CBP customs duty collection / total bilateral imports.,[1]
+2017,0.31,0.0,NAFTA Duty-Free Baseline,Hard Data,Official USITC DataWeb & CBP customs duty collection / total bilateral imports.,[1]
+2018,0.42,0.0,NAFTA (Section 232 Steel/Alum Flare-up),Hard Data,Official USITC DataWeb & CBP customs duty collection / total bilateral imports.,[1]
+2019,0.38,0.0,NAFTA (Section 232 Resolved May 2019),Hard Data,Official USITC DataWeb & CBP customs duty collection / total bilateral imports.,[1]
+2020,0.29,0.0,"USMCA Entry into Force (July 1, 2020)",Hard Data,Official USITC DataWeb & CBP customs duty collection / total bilateral imports.,[1]
+2021,0.32,0.0,USMCA Preferential Baseline,Hard Data,Official USITC DataWeb & CBP customs duty collection / total bilateral imports.,[1]
+2022,0.35,0.0,USMCA Preferential Baseline,Hard Data,Official USITC DataWeb & CBP customs duty collection / total bilateral imports.,[1]
+2023,0.34,0.0,USMCA Preferential Baseline,Hard Data,Official USITC DataWeb & CBP customs duty collection / total bilateral imports.,[1]
+2024,0.36,0.0,USMCA Preferential Baseline,Hard Data,Official USITC DataWeb & CBP customs duty collection / total bilateral imports.,[1]
+2025,2.95,25.0,Auto Sector Tariffs (25% on $44.1B),Modeled Scenario / Estimate,Modeled: 25% duty applied to $44.1B auto components added to $1.4B baseline duty on $420.5B total trade = 2.95%.,[2]
+2026,5.33,50.0,Section 338 Tariff Escalation (50% on $20B),Modeled Scenario / Estimate,Modeled: 50% duty applied to $20B targeted goods ($10.0B) + 2025 autos ($11.0B) + baseline ($1.4B) / $420.5B = 5.33% (~5.3%).,[3]

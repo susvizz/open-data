@@ -1,0 +1,11 @@
+Rank,Project Name,Location,State,Planned Capacity (GW),Developer,Energy Source,Water Basin,Water Stress Level,Est Annual Consumption (Billion L),Est Annual Withdrawal (Billion L),US Households Equiv,Irrigated Farmland (Acres),Status,Citation
+1,Hypergrid Campus,"Amarillo, TX",TX,11.0,Fermi America,"Gas, Nuclear, Solar",Ogallala Aquifer / Canadian River,Extremely High,112.5,140.6,271412,45600,Public Project Proposal,"[5], [14], [15], [16]"
+2,Delta Gigasite,"Delta, UT",UT,10.0,Creekstone Energy,"Gas, Hydrogen, Solar",Sevier River / Great Salt Lake,Extremely High,102.3,127.8,246804,41460,Public Project Proposal,"[5], [14], [15], [16]"
+3,PORTS Technology Campus,"Piketon, OH",OH,10.0,SB Energy / SoftBank / OpenAI,"PJM Grid, Gas, SMR",Scioto River Basin,Moderate,102.3,127.8,246804,41460,Public Project Proposal,"[5], [14], [15], [16]"
+4,Project Jade,"Sweetwater, TX",TX,10.0,Crusoe & Tallgrass Energy,Gas with Carbon Capture,Colorado River (TX) / Ogallala,Extremely High,102.3,127.8,246804,41460,Public Project Proposal,"[5], [14], [15], [16]"
+5,New Era Lea Campus,"Hobbs / Lea Co., NM",NM,7.0,New Era Energy,Permian Basin Natural Gas,Pecos River / Ogallala Aquifer,High,71.6,89.5,172763,29020,Public Project Proposal,"[5], [14], [15], [16]"
+6,Monarch Compute Campus,"Mason County, WV",WV,6.0,Nscale,"PJM Grid, Gas, Hydro",Ohio River Basin,Low,61.4,76.7,148083,24880,Public Project Proposal,"[5], [14], [15], [16]"
+7,Matrix Campus,"Sulphur Springs, TX",TX,3.0,MSB Global Services,"ERCOT Grid, Solar, Gas",Sabine River Basin,Moderate,30.7,38.4,74041,12440,Public Project Proposal,"[5], [14], [15], [16]"
+8,Stargate Phase 1,"Abilene, TX",TX,2.5,Crusoe / OpenAI / Oracle,"ERCOT Grid, Wind, Gas",Brazos River Basin,High,25.6,32.0,61701,10370,Public Project Proposal,"[5], [14], [15], [16]"
+9,Project Rainier,"New Carlisle, IN",IN,2.0,Amazon AWS,"MISO Grid, Solar, Gas",Kankakee / Great Lakes Basin,Low,20.5,25.6,49361,8290,Public Project Proposal,"[5], [14], [15], [16]"
+10,Mesa & Redhawk Hub,"Phoenix / Mesa, AZ",AZ,2.0,Meta / Google / QTS,"APS / SRP Grid, Solar, Gas",Colorado River / Salt River (CAP),Extremely High,20.5,25.6,49361,8290,Public Project Proposal,"[5], [14], [15], [16]"

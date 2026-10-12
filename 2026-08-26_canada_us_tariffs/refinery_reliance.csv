@@ -1,0 +1,5 @@
+Region_or_Grid_Node,Share_or_Capacity_Pct,Physical_Metric,Strategic_Implication,Data_Status,Source
+Midwest (PADD II) Refineries - Heavy Canadian Crude,72.0,2.8 Million bpd heavy coking capacity,Hardwired coking units chemically require heavy crude; Texas light shale cannot substitute without facility rebuild.,Hard Data,[6]
+Midwest (PADD II) Refineries - Domestic Light & Other,28.0,1.1 Million bpd light/sweet capacity,Domestic shale utilized up to maximum light processing limit.,Hard Data,[6]
+New England / NYISO Peak Electricity Imports (Hydro-Québec),15.0,Up to 3.5 GW cross-border dispatch during heat/freeze events,Direct hydro transmission provides zero-carbon baseload and emergency peaking power.,Hard Data,[7]
+Ontario-Michigan/NY Cross-Border Power Interconnections,100.0,Bi-directional frequency and spinning reserve synchronization,Integrated North American Reliability Corporation (NERC) joint reliability zone.,Hard Data,[7]

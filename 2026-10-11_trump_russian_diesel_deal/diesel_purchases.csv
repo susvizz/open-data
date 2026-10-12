@@ -1,0 +1,4 @@
+entity,period,rhetorical_stance,money_eur_b,money_usd_b,volume_metric_tons_m,volume_barrels_m,domestic_duration,policy_action,data_status,source
+Europe,Sept 2025,Trump: 'Funding Putin war machine',1.10,1.19,1.70,12.60,Kept landlocked allies running (-91% cut),Banned seaborne crude and refined products,Hard Data,"[1], [2], [3]"
+United States (Batch 1),Oct 2026,Trump: 'Lowering midterm pump prices',0.21,0.23,0.30,2.24,13.8 Hours of U.S. demand,Treasury OFAC General License 135 sanctions waiver,Public Project Proposal,"[4], [5]"
+United States (Full Deal),Oct 2026,Trump: 'Lowering midterm pump prices',2.08,2.25,3.00,22.35,5.7 Days of U.S. demand,Treasury OFAC General License 135 sanctions waiver,Public Project Proposal,"[4], [5]"
