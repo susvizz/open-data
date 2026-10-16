@@ -14,6 +14,7 @@
 | `2026-09-30` | **Aviation's Statistical Unicorn: Squawk 7500** | 2 clean tables | Federal Aviation Administration (FAA) | [**Browse Tables & Citations**](2026-09-30_squawk_7500_hijack_rarity/) |
 | `2026-10-04` | **The Thirsty Cloud: The Secret Water Footprint of AI** | 5 clean tables | Ren, Shaolei, Pengfei Li, Jianyi Yang, and Adam Wierman | [**Browse Tables & Citations**](2026-10-04_thirsty_cloud_ai_water_footprint/) |
 | `2026-10-12` | **Same Russian Oil, Two Different Buyers** | 1 clean tables | Eurostat | [**Browse Tables & Citations**](2026-10-11_trump_russian_diesel_deal/) |
+| `2026-10-16` | **The Seasons of Divorce** | 3 clean tables | Brines, Julie, and Brian Serafini | [**Browse Tables & Citations**](2026-10-11_divorce_seasonality_vacation_trap/) |
 
 ---
 

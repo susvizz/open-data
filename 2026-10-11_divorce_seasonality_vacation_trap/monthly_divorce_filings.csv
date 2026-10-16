@@ -1,0 +1,13 @@
+month,month_num,avg_monthly_filings,filings_index_vs_peak,delta_vs_december_trough_pct,ritual_phase,source_tag
+January,1,1702,84.5,16.5,Post-Holiday Inquiry & Resolution,"[1], [2]"
+February,2,1625,80.7,11.2,Financial Disclosures & W-2 Collation,"[1], [2]"
+March,3,2014,100.0,37.9,Winter Post-Holiday Court Filings Peak (#1 Annual Peak),"[1], [2]"
+April,4,1829,90.8,25.2,Spring Term Case Docket Closes,"[1], [2]"
+May,5,1825,90.6,24.9,Pre-Summer Routine,"[1], [2]"
+June,6,1771,87.9,21.3,Early Summer Break,"[1], [2]"
+July,7,1755,87.2,20.2,Summer Vacations & Family Trips,"[1], [2]"
+August,8,1933,95.9,32.3,Summer Post-Vacation Court Peak (#2 Annual Peak),"[1], [2]"
+September,9,1876,93.1,28.4,Back to School Routine Resumes,"[1], [2]"
+October,10,1782,88.5,22.0,Holiday Booking & Planning Window,"[1], [2]"
+November,11,1524,75.6,4.3,Pre-Holiday Truce Begins,"[1], [2]"
+December,12,1461,72.5,0.0,Holiday Truce Deep Freeze (Courts Closed),"[1], [2]"

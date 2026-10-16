@@ -1,0 +1,5 @@
+stage_number,timeframe,stage_name,psychological_or_legal_reality,google_search_level,court_filing_volume,source_tag
+1,Weeks 1–2 (Jan 1–15),The Post-Trip Reality Check,"Return from vacation; holiday arguments boil over; filings rebound +16.5% to 1,702 cases/mo.",Elevated (82.2),Rebound (+16.5%),"[1], [2], [3], [4]"
+2,Weeks 3–6 (Jan 15–Feb 15),The Financial & Tax Inventory,"Waiting for employer W-2s, 1099s, bank and mortgage disclosures; cooling-off period.",Steady (80.1),Moderate (+11.2%),"[1], [2], [3], [4]"
+3,Weeks 7–9 (Feb 15–Mar 1),The Attorney Retainer,"Formal consultations; scraping together $3,500–$5,000 upfront legal retainer fee.",Moderate (77.3),Surging (+25%),"[1], [2], [3], [4]"
+4,Weeks 10–12 (March 1–31),The Court Docket Surge,"Petitions for Dissolution hit dockets; filings surge +37.9% to annual peak (2,014 cases/mo).",Steady (80.7),Annual Peak (+37.9%),"[1], [2], [3], [4]"

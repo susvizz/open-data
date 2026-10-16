@@ -1,0 +1,13 @@
+month,month_abbr,google_search_index,court_filings_index,search_to_filing_divergence,key_behavior,source_tag
+January,Jan,82.2,84.5,-2.3,"Post-Holiday Rebound & Inquiries (Search Index 82.2, Court Index 84.5)","[1], [2], [3]"
+February,Feb,80.1,80.7,-0.6,"Tax Forms Arrive; Initial Attorney Consultations (Search 80.1, Court 80.7)","[1], [2], [3]"
+March,Mar,77.3,100.0,-22.7,"Winter Post-Holiday Court Peak (+37.9% over Dec, 2,014 cases/mo)","[1], [2], [3]"
+April,Apr,80.7,90.8,-10.1,"Spring Docket Routine (Search 80.7, Court 90.8)","[1], [2], [3]"
+May,May,72.0,90.6,-18.6,Spring Lull in Searches (Index 72.0); Case Negotiations,"[1], [2], [3]"
+June,Jun,78.5,87.9,-9.4,Schools Close; Summer Vacations Begin (Search Index 78.5),"[1], [2], [3]"
+July,Jul,97.8,87.2,10.6,Summer Vacation Travel; Searches Surge to Index 97.8,"[1], [2], [3]"
+August,Aug,100.0,95.9,4.1,"Summer Post-Vacation Peak: Searches (Index 100.0) & Court (+32.3%, 1,933 cases/mo)","[1], [2], [3]"
+September,Sep,97.8,93.1,4.7,"School Resumes; Elevated Search Activity (Search 97.8, Court 93.1)","[1], [2], [3]"
+October,Oct,91.9,88.5,3.4,Right Now: Booking Winter Holiday Travel (Search Index 91.9),"[1], [2], [3]"
+November,Nov,81.3,75.6,5.7,"Pre-Holiday Avoidance ('Wait for the Kids', Search 81.3, Court 75.6)","[1], [2], [3]"
+December,Dec,82.2,72.5,9.7,"The Holiday Truce: Lowest Filings of Year (1,461 cases/mo, Search 82.2)","[1], [2], [3]"
