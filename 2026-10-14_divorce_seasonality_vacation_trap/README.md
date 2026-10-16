@@ -1,6 +1,6 @@
 # The Seasons of Divorce
 
-> **SusVizz Analytical Series** | Published: 2026-10-16  
+> **SusVizz Analytical Series** | Published: 2026-10-14  
 > **Topic:** 10-year empirical analysis of Washington State court dissolutions (210,000+ cases) and Google Trends proving biannual post-vacation divorce peaks and the 60-day financial retainer lag.  
 > **Visual Deliverables:** [View SusVizz Publications](https://instagram.com/susvizz)
 
